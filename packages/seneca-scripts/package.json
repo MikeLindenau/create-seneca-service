@@ -1,0 +1,16 @@
+{
+  "name": "seneca-scripts",
+  "version": "0.0.9",
+  "description": "Default scripts for create-seneca-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Lindenau",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cross-spawn": "^6.0.3",
+    "fs-extra": "^5.0.0"
+  }
+}
